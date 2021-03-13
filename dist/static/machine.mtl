@@ -1,0 +1,10 @@
+# picocad material
+newmtl machine_mtl
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+tr 1.000000
+illum 1
+ns 0.000000
+map_kd machine_tex.png
+norm machine_tex.png

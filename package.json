@@ -1,0 +1,22 @@
+{
+  "name": "pico-three",
+  "version": "1.0.0",
+  "description": "three.js with 3d model outputed picoCAD",
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack -w"
+  },
+  "author": "bambshot",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "three": "^0.126.1"
+  },
+  "devDependencies": {
+    "@types/three": "^0.126.0",
+    "ts-loader": "^8.0.18",
+    "typescript": "^4.2.3",
+    "webpack": "^5.25.0",
+    "webpack-cli": "^4.5.0"
+  }
+}
